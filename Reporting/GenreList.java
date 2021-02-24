@@ -1,5 +1,5 @@
 //Mohammed Azad
-//Categorizes movies in the movie csv provided by grouplens
+//Categorizes movies in the movie csv, provided by grouplens, by years and genres
 //Requires Java 13 
 import java.io.*;
 import java.util.*;
