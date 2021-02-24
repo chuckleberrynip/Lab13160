@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body { 
+    font-family: 'IBM Plex Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    color: black;
+}
+#time { 
+    font-size: 7rem;
+}
+h1 { 
+    margin-bottom: 0.3rem;
+}
+h2{
+    margin-bottom: 1rem;
+}
+button { 
+    margin-bottom: 1.0rem;
+}
